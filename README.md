@@ -1,5 +1,5 @@
 ~~~
-usage: hostiolimit_report.py [-h] -sid SID [-showallsgs] [-csv]
+usage: hostiolimit_report.py [-h] -sid SID [-csv]
 
 
 Reports Host IO Limit information per Symmetrix Storage Group.

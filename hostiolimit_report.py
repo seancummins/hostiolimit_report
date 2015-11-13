@@ -105,7 +105,6 @@ for elem in sgtree.iterfind('SG'):
     sgdata[sg_name]['hiol_iops'] = sg_hiol_iops
 
 
-
 # Build the report table
 report = list()
 
